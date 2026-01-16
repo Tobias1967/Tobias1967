@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobias1967
-- 👀 I’m interested in learning Flutter
+- 👀 I’m using Flutter and AI to create complexe apps
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on an app about an region in Greece
+- 💞️ I’m looking to collaborate on an app about Greece
 - 📫 How to reach me by e-mail!
 - 😄 Pronouns: Tobias Schorr
 - ⚡ Fun fact: I am photographer, tour guide and hobby geologist
